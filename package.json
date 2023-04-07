@@ -1,0 +1,16 @@
+{
+  "name": "43-grupe-friday5",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1-uzd": "nodemon ./js/1-uzd.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sauliusinfo (https://github.com/sauliusinfo)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
