@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "2-uzd": "nodemon ./js/2-uzd.js",
     "1-uzd": "nodemon ./js/1-uzd.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
