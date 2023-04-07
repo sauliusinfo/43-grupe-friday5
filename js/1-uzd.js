@@ -7,6 +7,9 @@ console.clear();
 // addition(9) ➞ 10
 // addition(-3) ➞ -2
 
+const x = 0;
+let skaicius = 0;
+
 function addition(x) {
     skaicius = x+1;
     return skaicius;
